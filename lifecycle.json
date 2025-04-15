@@ -3,7 +3,7 @@
   "models": {
     "AirLancer USB-300agn": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "Business LAN R800A": {
@@ -23,12 +23,12 @@
     },
     "Kopie von: LANCOM 1803VA-4G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 123": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1611+": {
@@ -43,7 +43,7 @@
     },
     "LANCOM 1640E": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1681V": {
@@ -133,7 +133,7 @@
     },
     "LANCOM 1780EW-4G+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1781-4G": {
@@ -188,7 +188,7 @@
     },
     "LANCOM 1781EF (CC)": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1781EF+": {
@@ -248,7 +248,7 @@
     },
     "LANCOM 1790-4G+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1790EF": {
@@ -258,7 +258,7 @@
     },
     "LANCOM 1790VA": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1790VA-4G": {
@@ -268,12 +268,12 @@
     },
     "LANCOM 1790VA-4G+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1790VAW": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1793VA": {
@@ -288,77 +288,77 @@
     },
     "LANCOM 1793VA-4G+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1793VAW": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1800EF": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1800EF-5G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1800EFW": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1800VA": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1800VA-4G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1800VA-5G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1800VAW": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1800VAW-4G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1803VA": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1803VA-4G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1803VA-4G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1803VA-5G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1803VAW": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1811 Wireless DSL": {
@@ -408,12 +408,12 @@
     },
     "LANCOM 1900EF": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1900EF-5G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1906VA": {
@@ -428,22 +428,22 @@
     },
     "LANCOM 1926VAG": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1926VAG-4G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1926VAG-5G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 1930EF": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 3050 Wireless": {
@@ -493,7 +493,7 @@
     },
     "LANCOM 730-4G+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 730VA": {
@@ -503,7 +503,7 @@
     },
     "LANCOM 750-5G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM 800+": {
@@ -638,7 +638,7 @@
     },
     "LANCOM GS-2310": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-2310P": {
@@ -648,7 +648,7 @@
     },
     "LANCOM GS-2310P+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-2326": {
@@ -658,7 +658,7 @@
     },
     "LANCOM GS-2326+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-2326P": {
@@ -668,7 +668,7 @@
     },
     "LANCOM GS-2326P+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-2328": {
@@ -678,7 +678,7 @@
     },
     "LANCOM GS-2328F": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-2328P": {
@@ -698,12 +698,12 @@
     },
     "LANCOM GS-3126X": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3126XP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3152P": {
@@ -728,12 +728,12 @@
     },
     "LANCOM GS-3252P": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3510XP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3528X": {
@@ -743,7 +743,7 @@
     },
     "LANCOM GS-3528XP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3528XUP": {
@@ -753,62 +753,62 @@
     },
     "LANCOM GS-3628X": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3628XP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3628XUP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3652X": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3652XP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-3652XUP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-4530X": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-4530XP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-4530XUP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-4554X": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-4554XP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM GS-4554XUP": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM IAP-1781VAW+": {
@@ -843,7 +843,7 @@
     },
     "LANCOM IAP-4G+": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM IAP-54 Wireless": {
@@ -853,17 +853,17 @@
     },
     "LANCOM IAP-5G": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM IAP-821": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM IAP-822": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM ISG-1000": {
@@ -878,12 +878,12 @@
     },
     "LANCOM ISG-5000": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM ISG-8000": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM L-1302acn dual Wireless": {
@@ -998,17 +998,17 @@
     },
     "LANCOM LN-1700B": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LN-1700UE": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LN-1700UE": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LN-1702": {
@@ -1058,57 +1058,57 @@
     },
     "LANCOM LW-500": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LW-600": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-6200": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-6200E": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-6400": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-6402": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-6500": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-6500E": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-7300": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-7300E": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM LX-7500": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM OAC-54-1 Wireless": {
@@ -1183,17 +1183,17 @@
     },
     "LANCOM OW-602": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM OX-6400": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM OX-6402": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM R883+": {
@@ -1213,72 +1213,72 @@
     },
     "LANCOM UF-100": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-160": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-200": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-260": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-300": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-360": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-50": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-500": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-60": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-60 LTE": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-760": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-900": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-910": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM UF-T60": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM Unified Firewalls": {
@@ -1288,12 +1288,12 @@
     },
     "LANCOM vFirewall": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM vFirewall-[S;M;L;XL]": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM VP-100": {
@@ -1303,17 +1303,17 @@
     },
     "LANCOM vRouter": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM WLC-1000": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM WLC-30": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM WLC-4006": {
@@ -1343,7 +1343,7 @@
     },
     "LANCOM WLC-60": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM XAC-40-1": {
@@ -1358,17 +1358,17 @@
     },
     "LANCOM XS-5110F": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM XS-5116QF": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     },
     "LANCOM XS-6128QF": {
       "lifecycle": {
-        "status": "Shipping"
+        "status": "SHIPPING"
       }
     }
   }    
