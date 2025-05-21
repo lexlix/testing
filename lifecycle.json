@@ -3,1372 +3,1920 @@
   "models": {
     "AirLancer USB-300agn": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "Business LAN R800A": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "Business LAN R800V": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "Kopie von: LANCOM 1711+ VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "Kopie von: LANCOM 1803VA-4G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 123": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1611+": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1631E": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1640E": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1681V": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1711 VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1711+ VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1721 VPN (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1721 VPN (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1721+ VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1722 VoIP (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1722 VoIP (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1723 VoIP (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1723 VoIP (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1724 VoIP (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1724 VoIP (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1724 VoIP (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1724 VoIP (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1751 UMTS": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1780EW-3G": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1780EW-4G": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1780EW-4G+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781-4G (CC)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781A": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781A (CC)": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781A-3G": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781A-3G (CC)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781A-4G": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781A-4G (CC)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781AW": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781EF": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781EF (CC)": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781EF+": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781EW": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781EW+": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781VA": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781VA-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1781VAW": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1783VA": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1783VA-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1783VAW": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1784VA": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1790-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1790-4G+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1790EF": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1790VA": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1790VA-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1790VA-4G+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1790VAW": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1793VA": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1793VA-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1793VA-4G+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1793VAW": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1800EF": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1800EF-5G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1800EFW": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1800VA": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1800VA-4G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1800VA-5G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1800VAW": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1800VAW-4G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1803VA": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1803VA-4G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1803VA-4G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1803VA-5G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1803VAW": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1811 Wireless DSL": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1811n Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1821 Wireless ADSL (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1821 Wireless ADSL (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1821+ Wireless ADSL (Ann.A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1821+ Wireless ADSL (Ann.B)": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1821n Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1823 VoIP (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1823 VoIP (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1900EF": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1900EF-5G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1906VA": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1906VA-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1926VAG": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1926VAG-4G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1926VAG-5G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 1930EF": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 3050 Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 3550 Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 3850 UMTS": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 7011 VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 7100 VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 7100+ VPN": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 7100+ VPN (CC)": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 7111 VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 730-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 730-4G+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 730VA": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 750-5G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 800+": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 8011 VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 821 ADSL/ISDN (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 821 ADSL/ISDN (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 821+ (Annex A)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 821+ (Annex B)": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 831A": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 883 VoIP": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 883+ VoIP": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 884 VoIP": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 9100 VPN": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 9100+ VPN": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM 9100+ VPN (CC)": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM C-54ag Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM C-54g Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM DSL/1610 Office": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM DSL/I-10+": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM DSL/I-1611 Office": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM ES-2126": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM ES-2126+": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM ES-2126P": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM ES-2126P+": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-1224": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-1224P": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-1326": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2124": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2310": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2310P": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2310P+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2326": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2326+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2326P": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2326P+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2328": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2328F": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2328P": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2352": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-2352P": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3126X": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3126XP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3152P": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3152X": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3152XP": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3152XSP": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3252P": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3510XP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3528X": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3528XP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3528XUP": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3628X": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3628XP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3628XUP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3652X": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3652XP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-3652XUP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-4530X": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-4530XP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-4530XUP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-4554X": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-4554XP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM GS-4554XUP": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-1781VAW+": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-321": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-321-3G": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-322": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-3G": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-4G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-4G+": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-54 Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-5G": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-821": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM IAP-822": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM ISG-1000": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM ISG-4000": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM ISG-5000": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM ISG-8000": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-1302acn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-1310acn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-151E Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-151gn Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-305agn Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-310agn Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-315agn dual Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-320agn Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-321agn Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-321agn Wireless (R2)": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-322agn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-322agn dual Wireless (R2)": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-322E Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-330agn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-451agn Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-452agn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-460agn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-54 dual Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-54ag Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-54g Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM L-822acn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-1700": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-1700B": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-1700UE": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-1700UE": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-1702": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-1702B": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-630acn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-830acn dual Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-830E Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-830E+ Wireless": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-830U": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-860": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LN-862": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LW-500": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LW-600": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-6200": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-6200E": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-6400": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-6402": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-6500": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-6500E": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-7300": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-7300E": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM LX-7500": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAC-54-1 Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-1700B": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-1702B": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-310agn Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-321": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-321-3G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-322": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-382": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-3G": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-54 Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-54-1 Wireless": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-821": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-822": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OAP-830": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OW-602": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OX-6400": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM OX-6402": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM R883+": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM R883VAW": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM R884VA": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-100": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-160": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-200": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-260": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-300": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-360": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-50": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-500": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-60": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-60 LTE": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-760": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-900": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-910": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM UF-T60": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM Unified Firewalls": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM vFirewall": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM vFirewall-[S;M;L;XL]": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM VP-100": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM vRouter": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM WLC-1000": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM WLC-30": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM WLC-4006": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM WLC-4006+": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM WLC-4025": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM WLC-4025+": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM WLC-4100": {
       "lifecycle": {
-        "status": "EOS"
+        "status": "EOS",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM WLC-60": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM XAC-40-1": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM XAP-40-2": {
       "lifecycle": {
-        "status": "EOL"
+        "status": "EOL",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM XS-5110F": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM XS-5116QF": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     },
     "LANCOM XS-6128QF": {
       "lifecycle": {
-        "status": "SHIPPING"
+        "status": "SHIPPING",
+        "eosDate": "2023-02-15",
+        "eolDate": "2025-02-15"
       }
     }
   }    
